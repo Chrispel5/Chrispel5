@@ -8,7 +8,7 @@ I'm a passionate and curious learner with a strong focus on cloud engineering, b
 ## 🚀 What I'm Up To
 - 🎓 Completed the **Cloud Computing Program** at **ALX Africa**
 - 🔧 Currently enrolled in the **Backend** and **ProBackend** tracks at ALX
-- 🏢 Interning at **Cecure Intelligence Limited** (Specialized Workforce domain)
+- 🏢 Interning at **Cecure Intelligence Limited** (Engineering domain)
 - ☁️ Building and automating solutions on AWS using **EC2, S3, RDS, IAM, DMS**, and more
 - 🛠️ Exploring infrastructure-as-code (Terraform), CI/CD (GitHub Actions), and system monitoring (CloudWatch, CloudTrail)
 
